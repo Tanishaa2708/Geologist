@@ -1,2 +1,2 @@
-# Geologist
-C27 project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
